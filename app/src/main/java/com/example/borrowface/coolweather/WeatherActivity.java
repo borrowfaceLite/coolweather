@@ -98,6 +98,7 @@ public class WeatherActivity extends AppCompatActivity {
             }
         });
 
+        //呼出侧滑栏
         navButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
